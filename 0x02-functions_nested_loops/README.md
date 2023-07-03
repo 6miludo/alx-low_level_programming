@@ -1,1 +1,1 @@
-A README.md file containing solutions to 0x04. C - More functions, more nested loops project from alx-se
+A README.md file containing solutions to 0x02-functions_nested_loops project from alx-se
